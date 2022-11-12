@@ -514,6 +514,13 @@ footer a:hover {
         font-size: 82%;
         padding: 15px 7px;
     }
+    section h2 span {
+        font-size: 30px;
+        color: white;
+        background-color: #fdbb2d;
+        border-radius: 20px;
+        padding: 5px;
+    }
 
     footer a {
         font-size: 81%;
@@ -554,6 +561,13 @@ footer a:hover {
     nav a {
         font-size: 77%;
         padding: 10px 7px;
+    }
+    section h2 span {
+        font-size: 30px;
+        color: white;
+        background-color: #fdbb2d;
+        border-radius: 20px;
+        padding: 5px;
     }
 
     footer a {
@@ -596,6 +610,13 @@ footer a:hover {
         font-size: 72%;
         padding: 8px 3px;
     }
+    section h2 span {
+        font-size: 25px;
+        color: white;
+        background-color: #fdbb2d;
+        border-radius: 20px;
+        padding: 5px;
+    }
 
     footer a {
         font-size: 71%;
@@ -637,6 +658,13 @@ footer a:hover {
         font-size: 72%;
         padding: 7px 1px;
     }
+    section h2 span {
+        font-size: 25px;
+        color: white;
+        background-color: #fdbb2d;
+        border-radius: 20px;
+        padding: 5px;
+    }
 
     footer a {
         font-size: 71%;
@@ -677,6 +705,13 @@ footer a:hover {
     nav a {
         font-size: 64%;
         padding: 7px 2px;
+    }
+    section h2 span {
+        font-size: 15px;
+        color: white;
+        background-color: #fdbb2d;
+        border-radius: 20px;
+        padding: 5px;
     }
 
     footer a {
